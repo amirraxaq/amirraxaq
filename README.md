@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 - 🎓 M.Sc. in Computer Networks and IoT Systems @ **Le CNAM / Sorbonne Université**, Paris
-- 🌐 Background in **network engineering** (SDN, satellite/terrestrial handover, NTN/TN) combined with hands-on **AI/LLM** experience
+- 🌐 Background in **network engineering** (NTN/TN) combined with hands-on **AI/LLM** and **Data Analytics** experience 
 - 🔭 Building projects around **AI, RAG, prompt engineering, and ML-powered network systems, NS3**
 - 📍 Based in Paris, France — open to **Network Engineer** and **AI Engineer** roles
 - 💬 Ask me about networking, SDN, LLM evaluation, or Python automation
@@ -20,22 +20,27 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" />
  </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/NS3-0091EA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SDN-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirraxaq/amirraxaq/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirraxaq/amirraxaq/output/github-snake.svg">
