@@ -53,8 +53,6 @@
 | **[SDN Traffic Prioritization](#)** | ML-powered SDN controller that dynamically prioritizes network traffic for QoS |
 | **[DoS Attack Simulation & Detection](#)** | Simulates and detects Denial-of-Service attacks with attacker geolocation visualization |
 
-> Replace the `#` links above with your actual repo URLs once pushed to GitHub.
-
 ---
 
 ### 📄 Publications
@@ -74,8 +72,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirraxaq&hide_border=true" alt="streak stats"/>
 </p>
-
-> These widgets pull live from your GitHub username automatically — update `amirraxaq` above if that's not your actual GitHub handle.
 
 ---
 
