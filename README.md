@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/SDN-FF6F00?style=for-the-badge" />
 </p>
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amirraxaq/amirraxaq/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amirraxaq/amirraxaq/output/github-snake.svg">
