@@ -8,8 +8,7 @@
 
 - 🎓 M.Sc. in Computer Networks and IoT Systems @ **Le CNAM / Sorbonne Université**, Paris
 - 🌐 Background in **network engineering** (SDN, satellite/terrestrial handover, NTN/TN) combined with hands-on **AI/LLM** experience
-- 🤖 Currently working as an **AI Expert / LLM Trainer**, evaluating and improving model outputs at Prolific & Outlier.ai
-- 🔭 Building projects around **RAG, prompt engineering, and ML-powered network systems**
+- 🔭 Building projects around **AI, RAG, prompt engineering, and ML-powered network systems, NS3**
 - 📍 Based in Paris, France — open to **Network Engineer** and **AI Engineer** roles
 - 💬 Ask me about networking, SDN, LLM evaluation, or Python automation
 
