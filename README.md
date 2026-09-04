@@ -55,7 +55,7 @@
 | **[AskMyDocs](#)** | Conversational Q&A system for querying PDFs and notes |
 | **[Multilingual Translation System](#)** | Context-aware translator with adaptive tone and style control across languages |
 | **[SDN Traffic Prioritization](#)** | ML-powered SDN controller that dynamically prioritizes network traffic for QoS |
-| **[DoS Attack Simulation & Detection](#)** | Simulates and detects Denial-of-Service attacks with attacker geolocation visualization |
+| **[DoS Attack Simulation & Detection](https://github.com/amirraxaq/DoS-Attack-Simulation-Detection)** | Simulates and detects Denial-of-Service attacks with attacker geolocation visualization |
 
 ---
 
