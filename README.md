@@ -6,11 +6,11 @@
 
 ### 🚀 About Me
 
-- 🎓 M.Sc. in Computer Networks and IoT Systems @ **Le CNAM / Sorbonne Université**, Paris
-- 🌐 Background in **network engineering** (NTN/TN) combined with hands-on **AI/LLM** and **Data Analytics** experience 
-- 🔭 Building projects around **AI, RAG, prompt engineering, and ML-powered network systems, NS3**
-- 📍 Based in Paris, France — open to **Network Engineer** and **AI Engineer** roles
-- 💬 Ask me about networking, SDN, LLM evaluation, or Python automation
+- 🎓 M.Sc. in Computer Science @ **Le CNAM / Sorbonne Université**, Paris
+- 🌐 Background in **Python** , **Data Analytics**, **Networking** (NTN/TN) combined with hands-on **AI/LLM** experience 
+- 🔭 Building projects around **Python, AI, and ML-powered network systems, NS3**
+- 📍 Based in Paris, France — open to work
+- 💬 Ask me about networking, LLM evaluation, or Python automation
 
 ---
 
