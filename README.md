@@ -1,16 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amir+%F0%9F%91%8B;Networks+%2B+IoT+Engineer;AI+%2F+LLM+Enthusiast;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Amir" alt="Typing SVG" />
 
 </div>
 
 ### 🚀 About Me
 
 - 🎓 M.Sc. in Computer Science @ **Le CNAM / Sorbonne Université**, Paris
-- 🌐 Background in **Python** , **Data Analytics**, **Networking** (NTN/TN) combined with hands-on **AI/LLM** experience 
-- 🔭 Building projects around **Python, AI, and ML-powered network systems, NS3**
 - 📍 Based in Paris, France — open to work
-- 💬 Ask me about networking, LLM evaluation, or Python automation
 
 ---
 
@@ -59,48 +56,4 @@
 
 ---
 
-### 📄 Publications
 
-**"AI Art Generation: Threat or Tool for Traditional Artists?"**
-*Dialogue Social Science Review (DSSR), Vol. 2 No. 4, November 2024*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amirraxaq&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirraxaq&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirraxaq&hide_border=true" alt="streak stats"/>
-</p>
-
----
-
-### 🎓 Certifications
-
-- Machine Learning Operations
-- Applied Python Data Engineering
-- IBM AI Developer
-- Microsoft Azure AI Fundamentals (AI-900)
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:amirraxaq@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/amirraxaq/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-
-⭐️ *Thanks for stopping by!*
-
-</div>
